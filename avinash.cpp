@@ -2,7 +2,7 @@
 #include<cstring>
 using namespace std;
 class queue
-//hello welcome
+//hello welcome1
 {
     public:
     int size;
